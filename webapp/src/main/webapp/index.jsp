@@ -30,7 +30,7 @@
 
         </div> 
         <div class="content">
-            <h1>CTY Project 2022 <br><span>Cloud Native Developers <br>Experience</span> <br> Live Project</h1>
+            <h1>CTY Project 2022 <br> Welcome to<br><span>Cloud Native Developers <br>Experience</span> <br> Live Project</h1>
             <p class="par">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt neque 
                  ,expedita atque eveniet <br> quis nesciunt. Quos nulla vero consequuntur, fugit nemo ad delectus 
                 <br> a quae totam ipsa illum minus laudantium?</p>
